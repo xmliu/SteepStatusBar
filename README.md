@@ -5,8 +5,8 @@ immerse status top bar like ios
 
 also,we can add image as background,but we should cut one image into two,like below:
 
-![示例图2](https://github.com/xmliu/SteepStatusBar/blob/master/raw/common_images_status.png)
-![示例图3](https://github.com/xmliu/SteepStatusBar/blob/master/raw/account_bg.png)
+![示例图2](https://github.com/xmliu/SteepStatusBar/blob/master/raw/common_image_status.png)
+![示例图3](https://github.com/xmliu/SteepStatusBar/blob/master/raw/account_bg.jpg)
 
 finally,like below:
 
